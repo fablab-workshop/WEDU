@@ -1,3 +1,8 @@
+<div>
+<img src="https://raw.githubusercontent.com/FabLab-Halmstad/WEDU/refs/heads/main/_Img/MP1.jpg" width=20%/>
+<img src="https://raw.githubusercontent.com/FabLab-Halmstad/WEDU/refs/heads/main/_Img/MP1.jpg" width=20%/>
+</div>
+ 
  # Assignment
 - Create the part in CAD
 - Use CAM to program toolpaths for machine
